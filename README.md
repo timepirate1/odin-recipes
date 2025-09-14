@@ -1,4 +1,4 @@
-Odin Recipes is a simple HTML page, showcasing various recipes, part of the [The Odin Project Curriculum.]([url](https://www.theodinproject.com/lessons/foundations-recipes))
+Odin Recipes is a simple HTML page, showcasing various recipes, part of the [The Odin Project Curriculum](https://www.theodinproject.com/lessons/foundations-recipes) 
 
 This site deals with basic html element such as images, lists and anchor tags. 
 	- Images are used to display pictures of the recipes
